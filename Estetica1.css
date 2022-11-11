@@ -1,0 +1,19 @@
+body{
+    background-image: url("Fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Titulo{
+    border-style: double;
+    border-radius: 3px;
+    background-color: antiquewhite;
+}
+.Subir{
+    margin-bottom: 30px;
+	padding:5px 0 5px 60px;
+    position: relative;
+    left: 0;
+    text-align: center;
+}

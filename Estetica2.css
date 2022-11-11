@@ -1,0 +1,12 @@
+body{
+    background-image: url("Fondo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Regresar{
+    border-style: double;
+    border-radius: 3px;
+    background-color: antiquewhite;
+}
